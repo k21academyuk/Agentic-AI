@@ -1,0 +1,29 @@
+# Sample Legal Document - Contract Agreement
+
+## Article 1: Parties Involved
+This Agreement is made between the following parties:
+- **Party A**: XYZ Corp., located at 123 Business Street, Cityville, Country.
+- **Party B**: ABC Ltd., located at 456 Commerce Avenue, Metropolis, Country.
+
+## Article 2: Termination Clauses
+Either party may terminate this Agreement at any time by providing 30 days' written notice to the other party.
+- **For Party A**: The termination can occur due to non-payment or breach of contract.
+- **For Party B**: The termination may occur if there is a failure to deliver goods as outlined in the Agreement.
+
+## Article 3: Confidentiality
+Both parties agree to keep confidential any proprietary information shared during the term of this Agreement.
+- Confidential information includes, but is not limited to, financial data, trade secrets, and product designs.
+
+## Article 4: Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of Example, Country.
+- Any legal dispute will be resolved in the courts of Example County.
+
+## Article 5: Force Majeure
+Neither party shall be liable for failure to perform obligations due to events beyond their reasonable control, such as natural disasters, war, or government action.
+
+## Article 6: Payment Terms
+The payment for goods/services provided under this Agreement is due within 30 days of delivery.
+- Payments will be made via bank transfer to Party A's designated account.
+
+## Article 7: Dispute Resolution
+Any disputes between the parties that cannot be resolved amicably will be submitted to binding arbitration in Example City.
