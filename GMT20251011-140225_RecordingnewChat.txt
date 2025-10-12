@@ -1,0 +1,38 @@
+00:29:15	Meenal kataria:	1)loading2) Spliting n chunking 3) Indexing 4) Retrival System 5) Response generation
+00:32:32	Prashant Sahu:	https://drive.google.com/file/d/1t7MJPinD_M1MAR51Ffuw2zoJ9cHoarE-/view?usp=sharing
+00:51:40	Shyama Kalandoor:	How to find, what type of search algorithm used?
+01:13:40	Sachin:	yes
+01:20:03	Sachin:	yes
+01:20:11	renuka:	yes
+01:20:47	Sachin:	Can you show how it parses image
+01:26:30	Prashant Sahu:	https://medium.com/@ashok.1055/building-a-multimodal-rag-system-integrating-text-tables-and-images-with-langchain-b1a555b6a20c
+01:26:38	renuka:	Reacted to "https://medium.com/@..." with 👍
+01:27:31	Sachin:	Reacted to "https://medium.com/@..." with 👍
+01:49:46	Prashant Sahu:	10 min break
+02:03:44	Sachin:	yes
+02:04:18	Prashant Sahu:	https://drive.google.com/file/d/1kVK_mLPOrs2L0p0UTflUSBeq4XqwL7Yd/view?usp=sharing
+02:11:07	Shyama Kalandoor:	Are you connecting to sales force using api?
+02:11:53	Sachin:	Replying to "Are you connecting t..."
+
+yes
+02:30:41	Shyama Kalandoor:	Is model really make any difference for embedding?
+02:32:41	Sachin:	Replying to "Is model really make..."
+
+embedding is needed for similarity search to ask llm most relevant context from user query
+02:42:11	renuka:	can the recording of this be shared in one or two hours instead of a day later? it will be useful to quickly review it before the next lesion. thanks
+02:46:05	Shyama Kalandoor:	Replying to "can the recording of..."
+
++1
+02:46:09	Sachin:	yes
+02:46:16	Prashant Sahu:	https://drive.google.com/file/d/1Bn2oA9woyUYxk7qj3PdWMy6OQhQwJeDk/view?usp=sharing
+03:02:13	renuka:	can you share the documents you shared previously again..
+03:02:47	renuka:	I had to leave this meeting for 10-15 minutes earlier and rejoined and now I do not see the previous shares from you.
+03:03:02	Shyama Kalandoor:	https://drive.google.com/file/d/1Bn2oA9woyUYxk7qj3PdWMy6OQhQwJeDk/view?usp=sharing
+03:03:32	renuka:	earlier shares also please
+03:04:01	Shyama Kalandoor:	https://drive.google.com/file/d/1t7MJPinD_M1MAR51Ffuw2zoJ9cHoarE-/view?usp=sharing
+03:04:28	Shyama Kalandoor:	https://drive.google.com/file/d/1kVK_mLPOrs2L0p0UTflUSBeq4XqwL7Yd/view?usp=sharing
+03:06:04	renuka:	Reacted to "https://drive.google..." with 👍
+03:06:09	renuka:	Reacted to "https://drive.google..." with 👍
+03:06:20	renuka:	thanks Shaymaji!
+03:06:34	Shyama Kalandoor:	Reacted to "thanks Shaymaji!" with 👍
+03:13:12	Sachin:	yes
